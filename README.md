@@ -1,4 +1,4 @@
-# Artifact Repository ASE 2022 - Testing Game-like Programs using Neuroevolution
+# Artifact Repository ASE 2022 - Neuroevolution-Based Generation of Tests and Oracles for Games
 
 # Repository Structure
 
